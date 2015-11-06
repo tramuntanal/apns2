@@ -1,7 +1,6 @@
 h1. APNS
 
-A gem for the Apple Push Notification Service, based on apns popular gem (https://github.com/jpoz/APNS) but
-with optimizations for big batches connection failure tolerance.
+A gem for the Apple Push Notification Service, based on apns popular gem (https://github.com/jpoz/APNS) but with optimizations for big batches connection failure tolerance.
 
 h2. Install
 
