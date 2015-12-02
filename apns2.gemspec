@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = 'apns2'
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = ['jordi', 'oliver']
   spec.email         = ['oliver.vh@coditramuntana.com', 'jordi.cr@coditramuntana.com']
   spec.summary       = %q{Optimization to apns gem for big batches.}
